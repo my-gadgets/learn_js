@@ -25,8 +25,8 @@ function func2() {
   console.log(output);
 }
 
-func1();
+func1();  // if func1 is not executed, oopsGlobal1 is also undefined
 func2();
 
 console.log(typeof aa)   // this works
-console.log(aa)          // this craps
+// console.log(aa)          // this craps
