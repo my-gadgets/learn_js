@@ -1,7 +1,11 @@
-h2 {
+h2:hover {
   color: red;
 }
 
-.about-me {
+.subtitle {
   color: blue;
+}
+
+#services {
+  color: green;
 }

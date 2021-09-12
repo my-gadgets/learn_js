@@ -10,3 +10,7 @@
 
 - Id Selectors
     - select with the # symbol
+
+### pseudoselector
+
+`selector:pseudoselector {...}`
