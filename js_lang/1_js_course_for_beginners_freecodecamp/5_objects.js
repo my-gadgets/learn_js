@@ -1,4 +1,3 @@
-// Two ways to access object properties
 var testObj = {
   "hat": "ballcap",
   "shirt": "jersey",
@@ -6,6 +5,7 @@ var testObj = {
   16: "Montana"
 };
 
+// Two ways to access object properties
 var a = testObj.hat;
 var b = testObj["the drink"];
 var c = testObj[16];

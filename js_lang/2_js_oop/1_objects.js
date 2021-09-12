@@ -64,6 +64,7 @@ circle3.constructor;   // custom contructor function
 // - new Number();
 // - new Function();    functions itself are objects
 
+// use new to create Constructor Function
 const Circle2 = new Function('radius', `
 this.radius = radius;
 this.draw = function() {

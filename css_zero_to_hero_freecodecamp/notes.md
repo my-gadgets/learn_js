@@ -11,6 +11,6 @@
 - Id Selectors
     - select with the # symbol
 
-### pseudoselector
+### pseudo-selector
 
-`selector:pseudoselector {...}`
+`selector:pseudo-selector {...}`
